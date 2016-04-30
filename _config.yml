@@ -1,0 +1,28 @@
+name: UX Bits
+favicon: null
+layout_spectrum: 0.3529942345339805
+typography_spectrum: 0.3608625989872962
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.314618926262483
+  lightness: 0.44028685824014246
+  saturation: 0.282664533238858
+  rhythmicContrast: 0.3692937477026135
+purpose: []
